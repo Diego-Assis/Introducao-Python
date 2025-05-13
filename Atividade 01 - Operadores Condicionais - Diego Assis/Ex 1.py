@@ -1,0 +1,8 @@
+print(3.14, int(3.14))
+print(3.999, int(3.999))
+print(-3.999,int(-3.999))
+print("2345",int("2345"))
+print(14,int(14))
+print("23 garrafas")
+print(float("123.45"))
+print(type(float("123.45")))
